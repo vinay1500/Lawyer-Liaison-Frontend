@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Menu, Globe, ChevronDown, User, Settings, LogOut, Bell, ChevronRight } from 'lucide-react';
 import * as DropdownMenu from '@radix-ui/react-dropdown-menu';
 import { SearchAutocomplete } from './SearchAutocomplete';
