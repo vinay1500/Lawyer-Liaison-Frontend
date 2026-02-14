@@ -1,4 +1,4 @@
-import React, { useCallback } from 'react';
+import { useCallback } from 'react';
 import { ChevronRight, ChevronLeft } from 'lucide-react';
 import useEmblaCarousel from 'embla-carousel-react';
 import { motion } from 'motion/react';

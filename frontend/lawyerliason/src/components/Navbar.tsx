@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, Globe, ChevronDown, User, Settings, LogOut, Bell, Search, ChevronRight } from 'lucide-react';
+import { Menu, Globe, ChevronDown, User, Settings, LogOut, Bell, ChevronRight } from 'lucide-react';
 import * as DropdownMenu from '@radix-ui/react-dropdown-menu';
 import { SearchAutocomplete } from './SearchAutocomplete';
 import { SERVICES_DATA, CAREERS_DATA, LEGAL_EXPERTISE_DATA } from '../data/appData';
